@@ -1,0 +1,25 @@
+body {
+    background-color: #55868C;
+}
+
+button {
+    cursor: pointer;
+}
+
+.no-border{
+    border: none;
+}
+
+.btn-exit:hover {
+	background-color: rgb(237, 76, 76);
+	color: #fff;
+}
+
+.full-height{
+    height: 100vh;
+}
+
+
+[name="colleger"], [name="show"], [name="note"],[type="search"]{
+    text-transform: uppercase;
+}

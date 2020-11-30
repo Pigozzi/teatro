@@ -1,2 +1,2 @@
-# teatro
-Sistema antigo dos bolsistas
+# Teatro
+
